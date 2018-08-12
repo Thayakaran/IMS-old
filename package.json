@@ -1,0 +1,19 @@
+{
+  "name": "ims",
+  "version": "1.0.0",
+  "description": "<div align=\"center\"><h1>Internship Management System</h1> </div> <hr>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thayakaran/IMS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thayakaran/IMS/issues"
+  },
+  "homepage": "https://github.com/Thayakaran/IMS#readme"
+}
