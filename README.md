@@ -1,4 +1,4 @@
-<div align="center"><h1>Internship Management System</h1> </div>
+<div align="center"><h1>SLIIT Internship Management System</h1> </div>
 <hr>
 <div align="center"><h1>Internship Management System</h1> </div>
 <hr>
